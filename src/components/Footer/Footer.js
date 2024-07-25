@@ -14,4 +14,3 @@ export default function Footer() {
     </div>
   )
 }
-12>15
