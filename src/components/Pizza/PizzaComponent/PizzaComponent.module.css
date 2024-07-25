@@ -1,0 +1,36 @@
+.design{
+    display: grid;
+    grid-template-columns: 30% 70%;
+   gap: 0.5rem;
+}
+.image{
+    width: 100%;
+}
+.image img{
+    max-width: 8rem;
+    border-radius: 2px;
+}
+.text h4{
+    color: #e65501b3;
+    letter-spacing: 1.2px;
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+
+
+}
+.text p{
+    letter-spacing: 2px;
+    font-size: 1rem;
+    text-wrap: wrap;
+    margin-bottom: 0.3rem;
+
+}
+.soldoutImg{
+    filter: grayscale();
+    opacity: 0.8;
+}
+
+.soldout{
+   color:#757575 !important;
+}
+

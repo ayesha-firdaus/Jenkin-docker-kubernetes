@@ -1,0 +1,21 @@
+.menuHeader{
+    text-transform: capitalize;
+     display: inline-block;
+     color: #2b2d42;
+     font-weight: 700;
+     font-size: 1.8rem;
+     border-bottom: 2px solid currentColor;
+     border-top: 2px solid currentColor;
+     margin-bottom: 0.5rem;
+
+ 
+  
+
+}
+.text{
+    color: #253237;
+    letter-spacing: 1.5px;
+    line-height: 1.4;
+    font-weight: 300;
+    margin-bottom: 2rem;
+}

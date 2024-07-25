@@ -1,0 +1,21 @@
+.text{  letter-spacing: 2px;
+font-size: 1rem;
+text-wrap: wrap;
+margin: 0.8rem;
+}
+.btn{
+    background:#d1aa93;
+    color: #fff;
+    border: none;
+    padding: 0.8rem 1.6rem;
+    border-radius: 2px;
+    font-size: 1rem;
+   
+
+}
+.btn:hover{
+    background:#ac3f00;
+    
+   
+
+}
