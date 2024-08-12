@@ -1,3 +1,14 @@
+Jenkins
+
+sudo apt update
+
+sudo apt install default-jdk
+
+java -version
+wget "https://get.jenkins.io/war-stable/2.462.1/jenkins.war"
+
+java -jar jenkins.war
+
 Aws
 Make sure your all instance are in same Security group.
 Expose port 6443 in the Security group, so that worker nodes can join the cluster.
